@@ -10,7 +10,7 @@ Aplicação de Data Science para **análise exploratória e previsão de renda**
 
 📽️ **Vídeo da aplicação:** 
 
-
+[streamlit-st_pv-2026-01-18-10-06-27.webm](https://github.com/user-attachments/assets/24350c53-d45c-460c-a342-bf95649c2c5a)
 
 ---
 
