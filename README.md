@@ -1,4 +1,4 @@
-# Previsão de Renda: Análise Exploratória e Modelo de Machine Learning
+# Previsão de Renda: Análise Exploratória e Modelo Preditivo com Streamlit
 
 Aplicação de Data Science para **análise exploratória e previsão de renda**, com modelo treinado em **scikit-learn** e **implantação em Streamlit**, seguindo as etapas do **CRISP-DM** (descritas neste README).
 
