@@ -99,19 +99,18 @@ No recorte atual, foi identificada ausência relevante na coluna **`tempo_empreg
 
 Estrutura sugerida (compatível com a execução do Streamlit):
 
-projeto_2/
-│
+```text
+previsaovenda/
 ├─ input/
-│ └─ previsao_de_renda.csv
-│
+│  └─ previsao_de_renda.csv
 ├─ output/
-│ ├─ modelo_final_randomforest.pkl
-│ └─ renda_analysis.html (opcional)
-│
-├─ projeto-2.ipynb (notebook principal)
-├─ st_pv.py (aplicação Streamlit)
+│  ├─ modelo_final_randomforest.pkl
+│  └─ renda_analysis.html              # relatório HTML gerado no notebook
+├─ projeto-2.ipynb                     # notebook principal (EDA + treino + avaliação)
+├─ st_pv.py                            # aplicação Streamlit (implantação)
 └─ README.md
 
+```
 
 ---
 
